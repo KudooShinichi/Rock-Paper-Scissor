@@ -23,7 +23,7 @@ button{
     font-size: 3rem;
     margin: 0 .5rem;
     cursor: pointer;
-    border-radius: 100px;
+    border-radius: 50px;
     transition: all .3 ease-in-out;
     padding: 7px 7px;
 }
